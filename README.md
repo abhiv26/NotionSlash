@@ -1,6 +1,6 @@
 # NotionSlash
 
-A pixel-perfect recreation of Notion's slash command menu, built with a React + TypeScript frontend and a FastAPI backend.
+A recreation of Notion's slash command menu, built with a React + TypeScript frontend and a FastAPI backend.
 
 ## Overview
 
